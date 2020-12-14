@@ -1,0 +1,22 @@
+{
+  "name": "4lejandrito",
+  "version": "1.0.5",
+  "description": "My NPM Card",
+  "main": "index.js",
+  "bin": {
+    "4lejandrito": "./index.js"
+  },
+  "author": "Alejandro Tardín <alejandro@tardin.com>",
+  "homepage": "https://4lejandrito.dev",
+  "repository": "https://github.com/4lejandrito/npm-card",
+  "license": "MIT",
+  "keywords": [
+    "npm",
+    "npx",
+    "node",
+    "javascript",
+    "front-end",
+    "npx card",
+    "business card"
+  ]
+}
