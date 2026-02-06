@@ -1,7 +1,7 @@
 {
   "name": "4lejandrito",
-  "version": "1.0.5",
-  "description": "My NPM Card",
+  "version": "1.0.6",
+  "description": "Chat client for connecting to a netcat chat server",
   "main": "index.js",
   "bin": {
     "4lejandrito": "./index.js"
@@ -11,12 +11,9 @@
   "repository": "https://github.com/4lejandrito/npm-card",
   "license": "MIT",
   "keywords": [
-    "npm",
-    "npx",
-    "node",
-    "javascript",
-    "front-end",
-    "npx card",
-    "business card"
+    "chat",
+    "netcat",
+    "socket",
+    "cli"
   ]
 }
